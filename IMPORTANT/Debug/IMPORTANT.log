@@ -1,0 +1,47 @@
+﻿  BATTLE_PAINTERS.cpp
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\helpnew.h(64,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\helpnew.h(70,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\helpnew.h(78,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\helpnew.h(85,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\helpnew.h(92,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\helpnew.h(104,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\helpnew.h(110,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\helpnew.h(118,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\helpnew.h(125,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\helpnew.h(132,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\helpnew.h(144,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\helpnew.h(150,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\helpnew.h(158,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\helpnew.h(165,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\helpnew.h(172,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\helpnew.h(184,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\helpnew.h(190,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\helpnew.h(198,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\helpnew.h(205,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\helpnew.h(212,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\helpnew.h(224,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\helpnew.h(230,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\helpnew.h(238,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\helpnew.h(245,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\helpnew.h(252,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\BATTLE_PAINTERS.cpp(660,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\BATTLE_PAINTERS.cpp(660,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\BATTLE_PAINTERS.cpp(660,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\BATTLE_PAINTERS.cpp(660,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\BATTLE_PAINTERS.cpp(722,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\BATTLE_PAINTERS.cpp(722,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\BATTLE_PAINTERS.cpp(722,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\BATTLE_PAINTERS.cpp(722,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\BATTLE_PAINTERS.cpp(795,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\BATTLE_PAINTERS.cpp(806,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\BATTLE_PAINTERS.cpp(973,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\BATTLE_PAINTERS.cpp(973,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\BATTLE_PAINTERS.cpp(973,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\BATTLE_PAINTERS.cpp(973,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\BATTLE_PAINTERS.cpp(983,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\BATTLE_PAINTERS.cpp(983,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\BATTLE_PAINTERS.cpp(983,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\BATTLE_PAINTERS.cpp(983,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\BATTLE_PAINTERS.cpp(992,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\IMPORTANT\BATTLE_PAINTERS.cpp(1398,7): warning C4101: 'rect': unreferenced local variable
+  IMPORTANT.vcxproj -> D:\DRIVE\COPY1\UNI\SEMESTER#1\IMPORTANT(FINAL)\Debug\IMPORTANT.exe

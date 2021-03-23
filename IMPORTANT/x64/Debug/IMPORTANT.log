@@ -1,0 +1,2 @@
+﻿BATPAINT.obj : error LNK2019: unresolved external symbol __imp_PlaySoundA referenced in function main
+C:\Users\nabee\source\repos\IMPORTANT\x64\Debug\IMPORTANT.exe : fatal error LNK1120: 1 unresolved externals
